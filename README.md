@@ -14,7 +14,7 @@ FlutterQuiz is a basic quiz app that asks you three questions and return you a f
 - Android Virtual Machine - It is astonishing how AVM makes you experience the production of a real app.
 - Udemy - Seriously, this is the future of knowledge.
 - GitHub - GitHub is a must for all programmers nowadays, my cheers to this website.
-- Dillinger - It surely helped me construction this fabulous README file.
+- Dillinger - It surely helped me construct this fabulous README file.
 
 ## Installation
 
