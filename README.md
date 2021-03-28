@@ -18,10 +18,6 @@ FlutterQuiz is a basic quiz app that asks you three questions and return you a f
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
-
-Install the dependencies and devDependencies and start the server.
-
 ```sh
 1- Select FlutterQuiz on my GitHub page
 2- Click on "code" and copy the HTTPS link
